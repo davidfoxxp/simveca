@@ -1,0 +1,240 @@
+html{
+
+    background-size: cover;
+    min-height: 100%;
+}
+
+body{
+    background:none;
+}
+
+/*posicion del conteiner*/
+#advanced-search-form{
+    background-color: #fff;
+    max-width: 700px;
+    height: auto;
+    margin: 60px auto 0;
+    padding: 5px;
+    color: #858b8e;
+    box-shadow: 6px 6px 6px rgba(0,0,0,0.2);
+}
+
+#advanced-search-form h2{
+    padding-bottom: 10px;
+    margin: 5px 10px;
+    font-size: 18px;
+}
+
+#advanced-search-form hr{
+    margin-top: 38px;
+    margin-bottom: 54px;
+    margin-left:3px;
+    border: 1px solid #cccccc;
+
+}
+
+#advanced-search-form .form-group{
+    margin-bottom: 10px;
+    margin-left:20px;
+    width: 30%;
+    float:left;
+    text-align: left;
+}
+
+#advanced-search-form .form-control{
+    padding: 12px 20px;
+    height: auto;
+    border-radius: 2px;
+}
+
+#advanced-search-form .radio-inline{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#advanced-search-form .gender{
+    width: 30%;
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#advanced-search-form .btn{
+    width: 46%;
+    margin: 20px auto 0;
+    display: block;
+    outline: none;
+}
+
+@media screen and (max-width: 800px){
+    #advanced-search-form .form-group{
+        width: 45%;
+    }
+
+    #advanced-search-form{
+        margin-top: 0;
+    }
+}
+
+@media screen and (max-width: 560px){
+    #advanced-search-form .form-group{
+        width: 100%;
+        margin-left: 0;
+    }
+
+    #advanced-search-form h2{
+        text-align: center;
+    }
+}
+
+
+/*iniciaaaaaa la segundas capas*/
+#advanced-search-form_2{
+    background-color: #fff;
+    max-width: 700px;
+    height: auto;
+    margin: 10px auto 0;
+    padding: 5px;
+    color: #858b8e;
+    box-shadow: 6px 6px 6px rgba(0,0,0,0.2);
+}
+
+#advanced-search-form_2 h2{
+    padding-bottom: 10px;
+    margin: 5px 10px;
+    font-size: 18px;
+}
+
+#advanced-search-form_2 hr{
+    margin-top: 38px;
+    margin-bottom: 54px;
+    margin-left:3px;
+    border: 1px solid #cccccc;
+
+}
+
+#advanced-search-form_2 .form-group{
+    margin-bottom: 10px;
+    margin-left:20px;
+    width: 30%;
+    float:left;
+    text-align: left;
+}
+
+#advanced-search-form_2 .form-groupp{
+    margin-bottom: 10px;
+    margin-left:20px;
+    width: 30%;
+    float: right;
+    text-align: left;
+}
+
+#advanced-search-form_2 .form-groupa{
+    margin-bottom: 10px;
+    margin-left:20px;
+    width: 30%;
+    text-align: left;
+}
+
+#advanced-search-form_2 .form-groupapp{
+    margin-bottom: 10px;
+    margin-left: 20px;    
+    text-align: left;
+}
+
+#advanced-search-form_2 .form-grouppp{
+    margin-bottom: 10px;
+    margin-left:20px;
+    width: 33%;    
+    text-align: left;
+    float: right;
+}
+
+#advanced-search-form_2 .form-groupppp{
+    margin-bottom: 10px;
+    margin-left:20px;
+    width: 30%;
+
+    text-align: left;
+}
+
+
+#advanced-search-form_2 .form-control{
+    font-size: 10px;
+    height: auto;
+    border-radius: 2px;
+}
+
+#advanced-search-form_2 .textarea{
+    font-size: 10px;    
+    border-radius: 2px;
+}
+
+#advanced-search-form_2 .nombres{
+    font-size: 10px;
+    height: auto;
+    border-radius: 2px;
+    width: 400px;
+}
+
+#advanced-search-form_2 .date{
+    font-size: 14px;
+    height: 30px;
+    border-radius: 2px;
+    padding: 0px;    
+}
+
+#advanced-search-form_2 .radio-inline{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#advanced-search-form_2 .gender{
+    width: 30%;
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#advanced-search-form_2 .btn{
+    width: 46%;
+    margin: 20px auto 0;
+    display: block;
+    outline: none;
+}
+
+@media screen and (max-width: 800px){
+    #advanced-search-form_2 .form-group{
+        width: 45%;
+    }
+
+    #advanced-search-form_2{
+        margin-top: 0;
+    }
+}
+
+@media screen and (max-width: 560px){
+    #advanced-search-form_2 .form-group{
+        width: 100%;
+        margin-left: 0;
+    }
+
+    #advanced-search-form_2 h2{
+        text-align: center;
+    }
+
+
+}
+
+/*LISTAR*/
+#advanced-search-form .listar{
+    background-color: #fff;
+    max-width: 700px;
+    height: auto;
+    margin: 60px auto 0;
+    padding: 5px;
+    color: #858b8e;
+    box-shadow: 6px 6px 6px rgba(0,0,0,0.2);
+}
